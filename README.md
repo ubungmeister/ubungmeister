@@ -3,9 +3,6 @@ https://www.codewars.com/users/ubungmeister
 
 <a target="_blank" href="https://www.codewars.com/users/ubungmeister"><img src="https://www.codewars.com/users/ubungmeister/badges/large" alt="codewars badge large" /></a>
 
-Repository for my solutions to Codewars challenges (katas): </br>
-Katas are divided by difficulty, the lower the kyu, more difficult the challenge is.</br>
-Main languages used in solutions: JavaScript, Python. </br></br>
 
 <!--
 **ubungmeister/ubungmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
