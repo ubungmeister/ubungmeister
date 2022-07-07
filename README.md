@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h4 target="_blank" href="https://www.codewars.com/users/ubungmeister"><img src="https://www.codewars.com/users/ubungmeister/badges/large" alt="codewars badge large" /></h4>
 
 
