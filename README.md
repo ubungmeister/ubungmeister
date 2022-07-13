@@ -1,6 +1,4 @@
 
-<h1 target="_blank" href="https://www.codewars.com/users/ubungmeister"><img src="https://www.codewars.com/users/ubungmeister/badges/large" alt="codewars badge large" /></h1>
-
 
 <!--
 **ubungmeister/ubungmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
